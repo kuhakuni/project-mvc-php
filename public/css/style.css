@@ -1,0 +1,30 @@
+a {
+	text-decoration: none !important;
+}
+.mhs-btn > a {
+	color: #fff;
+}
+
+a.detail {
+	background-color: #212529;
+}
+
+a.edit {
+	background-color: #198754;
+}
+
+a.delete {
+	background-color: #dc3545;
+}
+
+a.detail:hover {
+	background-color: #1c1f23;
+}
+
+a.edit:hover {
+	background-color: #0f7f4f;
+}
+
+a.delete:hover {
+	background-color: #c92333;
+}
